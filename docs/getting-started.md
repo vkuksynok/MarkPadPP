@@ -7,8 +7,10 @@ the rendered reader mode.
 ## How do I install MarkPad++?
 
 Install it from the Microsoft Store, at
-https://apps.microsoft.com/detail/9PCKKT5MKL4L. That is the only distribution
-channel, and updates arrive the same way. You need Windows 10 version 1809 (build
+https://apps.microsoft.com/detail/9PCKKT5MKL4L — the recommended channel, where
+updates arrive automatically. A direct installer is also available from the
+[GitHub Releases page](https://github.com/vkuksynok/MarkPadPP/releases/latest)
+(updates are manual with that option). You need Windows 10 version 1809 (build
 17763) or newer, or Windows 11, on x64.
 
 ## How do I open a Markdown file?

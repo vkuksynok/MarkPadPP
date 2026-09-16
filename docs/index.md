@@ -23,7 +23,7 @@ at https://openmdfiles.download/Docs.dc.html.
 | Price | Free — no trial, no subscription, no in-app purchase, no ads |
 | Operating system | Windows 10 version 1809 (build 17763) or newer; Windows 11 |
 | Architecture | x64 |
-| Distribution | Microsoft Store only |
+| Distribution | Microsoft Store (recommended) or direct installer from GitHub Releases |
 | Account required | No |
 | Internet connection required | No — works entirely offline |
 | Telemetry | None |
@@ -32,7 +32,8 @@ at https://openmdfiles.download/Docs.dc.html.
 | Author | Volodymyr Kuksynok |
 
 Not available for macOS, Linux, Android, iOS, or as a web application. The
-Microsoft Store is the only distribution channel, and it also delivers updates.
+Microsoft Store is the recommended channel and delivers updates automatically;
+a direct installer is also available from the [GitHub Releases page](https://github.com/vkuksynok/MarkPadPP/releases/latest).
 
 ## What MarkPad++ does
 

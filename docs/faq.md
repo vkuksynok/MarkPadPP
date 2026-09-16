@@ -19,8 +19,10 @@ macOS, Linux, Android, iOS or web version.
 
 ### How do I install it?
 
-Through the Microsoft Store, at https://apps.microsoft.com/detail/9PCKKT5MKL4L.
-That is the only distribution channel, and updates arrive the same way.
+Through the Microsoft Store (recommended), at
+https://apps.microsoft.com/detail/9PCKKT5MKL4L, where updates arrive
+automatically. A direct installer is also available from the
+[GitHub Releases page](https://github.com/vkuksynok/MarkPadPP/releases/latest).
 
 ### How do I preview the rendered Markdown?
 

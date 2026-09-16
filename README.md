@@ -17,11 +17,15 @@ request features.
 
 ## Install
 
-MarkPad++ is distributed through the Microsoft Store, which also delivers updates.
+The recommended way to install MarkPad++ is the Microsoft Store, which also
+delivers updates automatically. A direct installer is available as well.
 
-- **Microsoft Store:** https://apps.microsoft.com/detail/9PCKKT5MKL4L
+- **Microsoft Store (recommended):** https://apps.microsoft.com/detail/9PCKKT5MKL4L
+- **Direct download:** the latest `MarkPadPP-<version>-x64-setup.exe` on the
+  [Releases page](https://github.com/vkuksynok/MarkPadPP/releases/latest). Updates
+  are manual with this option.
 
-<!-- TODO: winget + direct download — add once the installer is hosted in Releases and a winget-pkgs manifest is submitted. -->
+<!-- TODO: winget — add once a winget-pkgs manifest is submitted. -->
 
 ## Features
 
