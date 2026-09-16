@@ -1,0 +1,80 @@
+name: Bug report
+description: Report something in MarkPad++ that is broken or behaves incorrectly.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please check the
+        [existing issues](https://github.com/vkuksynok/MarkPadPP/issues) first to
+        avoid duplicates, and confirm you are on the latest version — updates arrive
+        through the Microsoft Store.
+
+        Do not report security vulnerabilities here; see
+        [SECURITY.md](https://github.com/vkuksynok/MarkPadPP/blob/main/SECURITY.md).
+
+  - type: input
+    id: app-version
+    attributes:
+      label: MarkPad++ version
+      description: Shown in the app's About dialog. The current release is 1.0.3.
+      placeholder: "1.0.3"
+    validations:
+      required: true
+
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      description: "Run `winver`, or check Settings › System › About. Include the build number if you can."
+      placeholder: "Windows 11 23H2 (build 22631.4317)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, step by step?
+      placeholder: |
+        1. Open a .md file with ...
+        2. Press Ctrl+E ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What actually happened? Include exact error text if any.
+    validations:
+      required: true
+
+  - type: textarea
+    id: sample
+    attributes:
+      label: Sample Markdown
+      description: >-
+        If the problem depends on the document, paste a minimal .md example that
+        triggers it (or drag a file into this box to attach it). Files are UTF-8.
+      render: markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Screenshots, exported files, or other context that might help.
+    validations:
+      required: false

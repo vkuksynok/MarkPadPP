@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: MarkPad++ website
+    url: https://openmdfiles.download/
+    about: Overview, screenshots and the full documentation.
+  - name: Microsoft Store listing
+    url: https://apps.microsoft.com/detail/9PCKKT5MKL4L
+    about: Install MarkPad++ or leave a Store review. Updates arrive through the Store.
+  - name: Documentation
+    url: https://openmdfiles.download/Docs.dc.html
+    about: Shortcuts, supported Markdown, export, themes and known limits.

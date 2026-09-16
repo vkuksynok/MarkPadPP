@@ -1,0 +1,29 @@
+# This repository holds documentation only — no source code or build output.
+# Ignore common OS and editor cruft.
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local notes / scratch
+/scratch/
+*.tmp
+
+# Release artifacts — uploaded to GitHub Releases, not committed to the repo
+/installer/
+*.exe
+*.msi
+*.msix
+*.msixbundle
+*.appinstaller
