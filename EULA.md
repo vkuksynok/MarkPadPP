@@ -78,19 +78,12 @@ Notwithstanding Section 3, with respect to those third-party components:
 Full license texts and the list of third-party components are provided in
 [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
 
-<!-- TODO: створи THIRD-PARTY-NOTICES.md зі списком компонентів, версій
-     і повним текстом LGPL-3.0 та GPL-3.0. Для динамічно злінкованого Qt це
-     не формальність — без цього ти порушуєш LGPL. -->
 
 ## 7. Privacy
 
 The Software runs locally on Your device. It does not collect, transmit, or
 store personal data on the Licensor's systems.
 
-<!-- TODO: звір це з реальною поведінкою застосунку. Якщо є перевірка
-     оновлень, краш-репорти чи будь-який мережевий запит — опиши їх тут
-     і в Privacy Policy. Формулювання нижче лишай лише якщо мережевих
-     запитів немає взагалі. -->
 
 Where the Software is obtained through the Microsoft Store or another
 distribution platform, that platform may collect data under its own privacy
@@ -158,6 +151,6 @@ to bring proceedings in the courts of Your country of residence.
 ## 15. Contact
 
 Volodymyr Kuksynok
-<!-- TODO: email -->
+volodymyr.kuksynok@gmail.com
 https://openmdfiles.download/
 https://github.com/vkuksynok/MarkPadPP
